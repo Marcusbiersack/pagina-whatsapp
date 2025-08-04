@@ -21,7 +21,7 @@ export default function HomePage() {
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-6 text-white">Entre no nosso Grupo VIP!</h1>
           <p className="text-lg sm:text-xl mb-6 sm:mb-8 text-gray-200">Receba ofertas exclusivas e dicas especiais.</p>
           
-          <motion.a href="https://chat.whatsapp.com/DZQqJk1uKafKq4yTQJMkKb" className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-bold py-3 sm:py-4 px-6 sm:px-8 rounded-lg text-base sm:text-lg transition-all duration-300 transform hover:scale-105" whileHover={{
+          <motion.a href="https://chat.whatsapp.com/ICS1xGmPGizAEpCNuFsN5D?mode=ac_t" className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-bold py-3 sm:py-4 px-6 sm:px-8 rounded-lg text-base sm:text-lg transition-all duration-300 transform hover:scale-105" whileHover={{
           scale: 1.05
         }} whileTap={{
           scale: 0.95
